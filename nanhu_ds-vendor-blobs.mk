@@ -37,7 +37,9 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nanhu_ds/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/fw-4.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/fw-4.bin \
     vendor/sony/nanhu_ds/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/softmac:system/etc/firmware/ath6k/AR6003/hw2.1.1/softmac \
     vendor/sony/nanhu_ds/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
+    vendor/sony/nanhu_ds/proprietary/lib/hw/copybit.msm7x27a.so:system/lib/hw/copybit.msm7x27a.so \
     vendor/sony/nanhu_ds/proprietary/lib/hw/gps.msm7x27a.so:system/lib/hw/gps.msm7x27a.so \
+    vendor/sony/nanhu_ds/proprietary/lib/hw/hwcomposer.msm7x27a.so:system/lib/hw/hwcomposer.msm7x27a.so \
     vendor/sony/nanhu_ds/proprietary/lib/hw/sensors.msm7x27a.so:system/lib/hw/sensors.msm7x27a.so \
     vendor/sony/nanhu_ds/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/sony/nanhu_ds/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
