@@ -16,7 +16,9 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES := \
-    vendor/sony/nanhu_ds/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so
+    vendor/sony/nanhu_ds/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
+    vendor/sony/nanhu_ds/proprietary/bin/mpdecision:system/bin/mpdecision \
+    vendor/sony/nanhu_ds/proprietary/bin/qosmgr:system/bin/qosmgr \
 
 PRODUCT_COPY_FILES += \
     vendor/sony/nanhu_ds/proprietary/bin/rild:system/bin/rild \
